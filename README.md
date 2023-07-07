@@ -25,6 +25,10 @@ Allows the creation of a README file using node command-line application
 
 Bootcamp References
 
+# Prerequisites
+
+NPM Inquirer
+
 # Installation
 
 GitHub project clone and local repository
