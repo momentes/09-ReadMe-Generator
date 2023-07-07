@@ -23,11 +23,11 @@ Allows the creation of a README file using node command-line application
 
 # Acknowledgments
 
-Bootcamp Collateral
+Bootcamp References
 
 # Installation
 
-Clone GitHub project to local repository and create a new branch
+GitHub project clone and local repository
 
 # Tests
 
