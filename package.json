@@ -1,0 +1,22 @@
+{
+  "name": "ReadMe Generator",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Bryan",
+  "license": "MIT",
+  "dependencies": {
+    "inquirer": "^8.2.4"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/momentes/09-ReadMe-Generator"
+  },
+  "bugs": {
+    "url": "https://github.com/momentes/09-ReadMe-Generator/issues"
+  },
+  "homepage": "https://github.com/momentes/09-ReadMe-Generator#readme"
+}
