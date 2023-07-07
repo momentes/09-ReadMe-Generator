@@ -12,8 +12,9 @@ Professional README generator is application that takes user input on a Node.js 
 - [License](#License)
 
 # Project Links:
-![Video](https://github.com/momentes/09-ReadMe-Generator/tree/main/Video)
-Google Drive
+<video src="README%20File%20Generator.mp4" controls title="Title"></video>
+
+Link = https://drive.google.com/file/d/1uu2hjlZwtK8mBQ4P5VA04F_cDiz02jSW/view?usp=drive_link
 
 https://github.com/momentes/09-ReadMe-Generator
 
