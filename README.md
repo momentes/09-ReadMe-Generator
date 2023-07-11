@@ -26,7 +26,7 @@ THEN this is added to the section of the README entitled Questions, with instruc
 THEN I am taken to the corresponding section of the README
 
 # Project Links:
-[Video Directory](https://github.com//momentes/09-ReadMe-Generator/tree/main/Video)
+[Video Directory](https://github.com//momentes/09-ReadMe-Generator/tree/main/video)
 
 **Video Link**
 https://drive.google.com/file/d/1uu2hjlZwtK8mBQ4P5VA04F_cDiz02jSW/view?usp=sharing
@@ -54,4 +54,4 @@ node index.js
 
 Thank you
 End.        
-<img src="Images/business-cat1.jpg" width=15%>
+<img src="images/business-cat1.jpg" width=15%>
